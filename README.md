@@ -50,3 +50,5 @@ As médias por região revelam um panorama complexo. O Sudeste se destaca como a
 Fatores que influenciam essa disparidade
 Desigualdade socioeconômica: O Sudeste e o Sul concentram maior renda e acesso à educação de qualidade, enquanto o Norte enfrenta maiores desafios socioeconômicos.
 Infraestrutura educacional: Escolas com melhores infraestruturas, laboratórios e materiais didáticos tendem a estar mais presentes nas regiões mais prósperas.
+
+O que podemos tirar de conclusão é que essa análise aprofundada dos dados do Enem por região e sexo revela um cenário complexo, com desigualdades persistentes e tendências promissoras. Através da compreensão desses dados, podemos direcionar esforços e políticas públicas para construir um sistema educacional mais justo e eficaz, capaz de garantir oportunidades iguais para todos.

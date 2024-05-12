@@ -31,6 +31,18 @@ Historicamente, as mulheres são culturalmente incentivadas a buscar a educaçã
 A educação é vista como um meio para alcançar a independência financeira e a autonomia pessoal, o que motiva muitas mulheres a buscarem o ensino superior.
 As mulheres ainda enfrentam desigualdades no mercado de trabalho, com menores salários e oportunidades em algumas áreas. A educação de qualidade se torna uma ferramenta crucial para combater essas disparidades e conquistar melhores perspectivas profissionais.
 
+Natureza:
+![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/22633d40-ebdc-4421-8593-a040b4250098)
+Humanas:
+![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/c5cf7faf-906f-40a6-be97-d84a4525bd41)
+Linguagens:
+![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/dacb8bac-411b-4ec3-8050-7a1b5f17c6f2)
+Matemática:
+![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/94fa0023-f617-4db0-a896-b81b53b493c5)
+Redação:
+![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/649a05b8-f004-41c3-a101-d149e5dfdd1e)
+
+
 Desvendando Desigualdades e Tendências:
 Desempenho Regional
 As médias por região revelam um panorama complexo. O Sudeste se destaca como a região com melhor desempenho em todas as disciplinas. No entanto, o Sul o acompanha de perto, figurando como vice-campeão em diversas áreas.exclamation Em contrapartida, o Norte apresenta as menores médias na maioria das disciplinas, expondo as disparidades educacionais entre as regiões.

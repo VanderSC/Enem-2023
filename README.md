@@ -23,8 +23,8 @@ Ao comparar os dados de diferentes anos, é possível monitorar o progresso das 
 Por exemplo, se as notas médias em uma determinada disciplina aumentarem ao longo do tempo, isso pode indicar que as políticas que foram implementadas para melhorar a educação nessa área estão funcionando.
 A análise por sexo também pode mostrar se as desigualdades de gênero na educação estão diminuindo ou aumentando ao longo do tempo.
 
-A predominância feminina no Enem, Vamos desvendar alguns dos principais motivos por trás dessa disparidade:![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/599bc008-7ae6-48c8-bcd2-97909963476c)
-
+![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/c30cd407-e34b-45de-abb4-5fb05e03a334)
+A predominância feminina no Enem, Vamos desvendar alguns dos principais motivos por trás dessa disparidade:
 
 Maior Valorização da Educação pelas Mulheres:
 Historicamente, as mulheres são culturalmente incentivadas a buscar a educação como forma de ascensão social e garantia de futuro. Essa visão tradicional, apesar de estar em mutação, ainda influencia as decisões de muitas mulheres.

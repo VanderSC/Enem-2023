@@ -1,3 +1,4 @@
+link do gov com os dados: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/sinopses-estatisticas/enem
 Este repositório contém um código do Jupyter Notebook utilizado para analisar os dados do Enem por região e sexo. O código gera os seguintes gráficos:
 
 Média de cada região em cada disciplina (Redação, Matemática, Linguagens, Humanas e Naturezas):

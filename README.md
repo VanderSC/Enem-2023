@@ -26,6 +26,7 @@ Por exemplo, se as notas médias em uma determinada disciplina aumentarem ao lon
 A análise por sexo também pode mostrar se as desigualdades de gênero na educação estão diminuindo ou aumentando ao longo do tempo.
 
 ![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/c30cd407-e34b-45de-abb4-5fb05e03a334)
+
 A predominância feminina no Enem, Vamos desvendar alguns dos principais motivos por trás dessa disparidade:
 
 Maior Valorização da Educação pelas Mulheres:

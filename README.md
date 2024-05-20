@@ -3,7 +3,7 @@ link do gov com os dados do ano de 2023: https://www.gov.br/inep/pt-br/acesso-a-
 Este repositório contém um código do Jupyter Notebook utilizado para analisar os dados do Enem por região e sexo. O código gera os seguintes gráficos:
 
 Média de cada região em cada disciplina (Redação, Matemática, Linguagens, Humanas e Naturezas):
-Um gráfico de barras para cada disciplina, mostrando a média das notas em cada região do Brasil.
+Um gráfico de barras para cada disciplina, mostrando a média das notas em cada região do Brasil
 Distribuição de pessoas por sexo:
 Um gráfico de barras mostrando a quantidade de pessoas de cada sexo que realizaram o Enem.
 

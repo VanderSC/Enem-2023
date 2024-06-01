@@ -47,8 +47,10 @@ Redação:
 
 
 Desvendando Desigualdades e Tendências:
+
 Desempenho Regional
 As médias por região revelam um panorama complexo. O Sudeste se destaca como a região com melhor desempenho em todas as disciplinas. No entanto, o Sul o acompanha de perto, figurando como vice-campeão em diversas áreas.exclamation Em contrapartida, o Norte apresenta as menores médias na maioria das disciplinas, expondo as disparidades educacionais entre as regiões.
+
 Fatores que influenciam essa disparidade
 
 Desigualdade socioeconômica

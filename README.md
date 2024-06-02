@@ -46,7 +46,7 @@ Redação:
 ![image](https://github.com/VanderSC/analise-enem-2023/assets/95940138/649a05b8-f004-41c3-a101-d149e5dfdd1e)
 
 
-Desvendando Desigualdades e Tendências:
+Desvendando Desigualdades e Tendências
 
 Desempenho Regional
 As médias por região revelam um panorama complexo. O Sudeste se destaca como a região com melhor desempenho em todas as disciplinas. No entanto, o Sul o acompanha de perto, figurando como vice-campeão em diversas áreas.exclamation Em contrapartida, o Norte apresenta as menores médias na maioria das disciplinas, expondo as disparidades educacionais entre as regiões.
